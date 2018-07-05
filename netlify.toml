@@ -5,7 +5,7 @@
 
 # Shortcuts
 [[redirects]]
-  from = "/downloads"
+  from = "/download"
   to = "/getting-started/download.html"
   status = 302
 
