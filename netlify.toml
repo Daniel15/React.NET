@@ -1,4 +1,4 @@
 [build]
-  base = "site"
-  publish = "jekyll/_site"
-  command = "./build.sh"
+  base = "site/jekyll"
+  publish = "_site"
+  command = "bundle exec jekyll build"
