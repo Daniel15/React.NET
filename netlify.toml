@@ -1,0 +1,4 @@
+[build]
+  base = "site"
+  publish = "jekyll/_site"
+  command = "./build.sh"
